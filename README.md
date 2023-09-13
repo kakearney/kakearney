@@ -11,7 +11,7 @@ My current work at University of Washington/NOAA Alaska Fisheries Science Center
 
 ## Matlab utilities
 
-Matlab is my high-level language of choice, and over the past two decades I've built a large library of small utilities; some are specific to the earth sciences and others (primarily plotting tools) are very generic.  Some of these tools (all identified by the -pkg suffix) are well-documented, others not as much (all .m files have appropriate in-file documentation, but I haven't added READMEs to all packages).  The fully-documented ones are co-shared on the [Matlab Central File Exchange](https://www.mathworks.com/matlabcentral/profile/authors/870314)), and I'm slowly adding more as I find time.
+Matlab is my high-level language of choice, and over the past two decades I've built a large library of small utilities; some are specific to the earth sciences and others (primarily plotting tools) are very generic.  Some of these tools (all identified by the -pkg suffix) are well-documented, others not as much (all .m files have appropriate in-file documentation, but I haven't added READMEs to all packages).  The fully-documented ones are co-shared on the [Matlab Central File Exchange](https://www.mathworks.com/matlabcentral/profile/authors/870314), and I'm slowly adding more as I find time.
 
 ##
 
